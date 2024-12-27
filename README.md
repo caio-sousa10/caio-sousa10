@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 0px;">
+<div style="display: flex; gap: 0px;">
     <a href="https://github.com/caio-sousa10">
         <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sousa10&layout=compact&langs_count=7&theme=dracula&cache_seconds=400"/>
     </a>

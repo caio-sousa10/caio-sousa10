@@ -5,6 +5,6 @@
 
 ## Linguagens 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<div><a href="https://github.com/caio-sousa10"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sousa10&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=caio-sousa10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/></div>
+<div><a href="https://github.com/caio-sousa10"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sousa10&layout=compact&langs_count=7&theme=dracula&cache_seconds=400"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=caio-sousa10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=400"/></div>
 
